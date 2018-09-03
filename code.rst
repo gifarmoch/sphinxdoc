@@ -1,0 +1,5 @@
+Code Documentation
+===================
+
+.. automodule:: pyClass
+    :members:
